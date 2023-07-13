@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Facebook" duration-ms="11703" started-at="2023-07-12T17:54:28Z" finished-at="2023-07-12T17:54:40Z">
+    <groups>
+    </groups>
+    <test name="TC005_Login_Test_with_Screenshot" duration-ms="11703" started-at="2023-07-12T17:54:28Z" finished-at="2023-07-12T17:54:40Z">
+      <class name="com.Facebook.testCases.TC005_Login_Test_with_Screenshot">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Facebook.testCases.TC005_Login_Test_with_Screenshot@197fbdb]" name="setUp" is-config="true" duration-ms="3174" started-at="2023-07-12T17:54:28Z" finished-at="2023-07-12T17:54:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.Facebook.testCases.TC005_Login_Test_with_Screenshot@197fbdb]" name="loginTest" duration-ms="7264" started-at="2023-07-12T17:54:31Z" finished-at="2023-07-12T17:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Facebook.testCases.TC005_Login_Test_with_Screenshot@197fbdb]" name="tearDown" is-config="true" duration-ms="1033" started-at="2023-07-12T17:54:39Z" finished-at="2023-07-12T17:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Facebook.testCases.TC005_Login_Test_with_Screenshot -->
+    </test> <!-- TC005_Login_Test_with_Screenshot -->
+  </suite> <!-- Facebook -->
+</testng-results>

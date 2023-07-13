@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Facebook]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <listeners>
+    <listener class-name="com.Facebook.utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="TC004_Login_Test_with_log4j2(failed)" parallel="tests">
+    <classes>
+      <class name="com.Facebook.testCases.TC004_Login_Test_with_log4j2">
+        <methods>
+          <include name="loginTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Facebook.testCases.TC004_Login_Test_with_log4j2 -->
+    </classes>
+  </test> <!-- TC004_Login_Test_with_log4j2(failed) -->
+</suite> <!-- Failed suite [Facebook] -->

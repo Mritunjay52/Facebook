@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Facebook" thread-count="5" parallel="tests">
+	<listeners>
+	<listener class-name="com.Facebook.utilities.ExtentReportManager" ></listener>
+	
+	</listeners>
+
+	<parameter name="browser" value="chrome" />
+  <test name="TC005_Login_Test_with_Screenshot">
+    <classes>
+      <class name="com.Facebook.testCases.TC005_Login_Test_with_Screenshot"/>
+    </classes>
+  </test> 
+</suite>

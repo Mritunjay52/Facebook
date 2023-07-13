@@ -1,0 +1,48 @@
+[INFO ] 11-07-2023 17:50:43 TC004_Login_Test_with_log4j2 - ******TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 17:50:45 TC004_Login_Test_with_log4j2 - ******Application is opened******
+[INFO ] 11-07-2023 17:50:45 TC004_Login_Test_with_log4j2 - ******Entering Login Details******
+[INFO ] 11-07-2023 17:50:45 TC004_Login_Test_with_log4j2 - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 11-07-2023 17:50:45 TC004_Login_Test_with_log4j2 - ******Password entered is******8802159070@Mc
+[INFO ] 11-07-2023 17:50:50 TC004_Login_Test_with_log4j2 - ******Login Successful******
+[INFO ] 11-07-2023 17:50:50 TC004_Login_Test_with_log4j2 - ******Ending Test Case - TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 18:13:19 TC004_Login_Test_with_log4j2 - ******TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 18:13:22 TC004_Login_Test_with_log4j2 - ******Application is opened******
+[INFO ] 11-07-2023 18:13:22 TC004_Login_Test_with_log4j2 - ******Entering Login Details******
+[INFO ] 11-07-2023 18:13:23 TC004_Login_Test_with_log4j2 - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 11-07-2023 18:13:23 TC004_Login_Test_with_log4j2 - ******Password entered is******8802159070@Mc
+[INFO ] 11-07-2023 18:13:29 TC004_Login_Test_with_log4j2 - ******Login Successful******
+[INFO ] 11-07-2023 18:13:29 TC004_Login_Test_with_log4j2 - ******Ending Test Case - TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 18:19:40 TC004_Login_Test_with_log4j2 - ******TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 18:19:42 TC004_Login_Test_with_log4j2 - ******Application is opened******
+[INFO ] 11-07-2023 18:19:42 TC004_Login_Test_with_log4j2 - ******Entering Login Details******
+[INFO ] 11-07-2023 18:19:42 TC004_Login_Test_with_log4j2 - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 11-07-2023 18:19:42 TC004_Login_Test_with_log4j2 - ******Password entered is******8802159070@Mc
+[INFO ] 11-07-2023 18:19:47 TC004_Login_Test_with_log4j2 - ******Login Successful******
+[INFO ] 11-07-2023 18:19:47 TC004_Login_Test_with_log4j2 - ******Ending Test Case - TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 18:20:13 TC004_Login_Test_with_log4j2 - ******TC004_Login_Test_with_log4j2******
+[INFO ] 11-07-2023 18:20:16 TC004_Login_Test_with_log4j2 - ******Application is opened******
+[INFO ] 11-07-2023 18:20:16 TC004_Login_Test_with_log4j2 - ******Entering Login Details******
+[INFO ] 11-07-2023 18:20:16 TC004_Login_Test_with_log4j2 - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 11-07-2023 18:20:16 TC004_Login_Test_with_log4j2 - ******Password entered is******8802159070@Mc
+[INFO ] 11-07-2023 18:20:21 TC004_Login_Test_with_log4j2 - ******Login Successful******
+[INFO ] 11-07-2023 18:20:21 TC004_Login_Test_with_log4j2 - ******Ending Test Case - TC004_Login_Test_with_log4j2******
+[INFO ] 12-07-2023 13:50:33 TC004_Login_Test_with_log4j2 - ******TC004_Login_Test_with_log4j2******
+[INFO ] 12-07-2023 13:50:35 TC004_Login_Test_with_log4j2 - ******Application is opened******
+[INFO ] 12-07-2023 13:50:35 TC004_Login_Test_with_log4j2 - ******Entering Login Details******
+[INFO ] 12-07-2023 13:50:35 TC004_Login_Test_with_log4j2 - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 12-07-2023 13:50:36 TC004_Login_Test_with_log4j2 - ******Password entered is******8802159070@Mc
+[INFO ] 12-07-2023 13:50:41 TC004_Login_Test_with_log4j2 - ******Login is not Successful******
+[INFO ] 12-07-2023 13:54:31 TC005_Login_Test_with_Screenshot - ******TC004_Login_Test_with_log4j2******
+[INFO ] 12-07-2023 13:54:33 TC005_Login_Test_with_Screenshot - ******Application is opened******
+[INFO ] 12-07-2023 13:54:33 TC005_Login_Test_with_Screenshot - ******Entering Login Details******
+[INFO ] 12-07-2023 13:54:33 TC005_Login_Test_with_Screenshot - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 12-07-2023 13:54:33 TC005_Login_Test_with_Screenshot - ******Password entered is******8802159070@Mc
+[INFO ] 12-07-2023 13:54:38 TC005_Login_Test_with_Screenshot - ******Login Successful******
+[INFO ] 12-07-2023 13:54:39 TC005_Login_Test_with_Screenshot - ******Ending Test Case - TC004_Login_Test_with_log4j2******
+[INFO ] 13-07-2023 12:49:39 TC005_Login_Test_with_Screenshot - ******TC004_Login_Test_with_log4j2******
+[INFO ] 13-07-2023 12:49:40 TC005_Login_Test_with_Screenshot - ******Application is opened******
+[INFO ] 13-07-2023 12:49:40 TC005_Login_Test_with_Screenshot - ******Entering Login Details******
+[INFO ] 13-07-2023 12:49:40 TC005_Login_Test_with_Screenshot - ******Username entered is******mritunjay.chauhan42@yahoo.com
+[INFO ] 13-07-2023 12:49:41 TC005_Login_Test_with_Screenshot - ******Password entered is******8802159070@Mc
+[INFO ] 13-07-2023 12:49:48 TC005_Login_Test_with_Screenshot - ******Login Successful******
+[INFO ] 13-07-2023 12:49:49 TC005_Login_Test_with_Screenshot - ******Ending Test Case - TC004_Login_Test_with_log4j2******

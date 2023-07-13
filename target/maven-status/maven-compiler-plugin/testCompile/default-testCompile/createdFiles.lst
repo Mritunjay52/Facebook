@@ -1,0 +1,8 @@
+com\Facebook\testBase\BaseClass.class
+com\Facebook\testCases\TC003_Login_Test_with_ConfigProperties.class
+com\Facebook\testCases\TC005_Login_Test_with_Screenshot.class
+com\Facebook\pageObjects\LoginPage.class
+com\Facebook\testCases\TC002_Login_Test_with_BaseClass.class
+com\Facebook\utilities\ExtentReportManager.class
+com\Facebook\testCases\TC001_Login_Test.class
+com\Facebook\testCases\TC004_Login_Test_with_log4j2.class
